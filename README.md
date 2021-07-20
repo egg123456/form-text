@@ -6,3 +6,6 @@
 $ npm i -g npm 
 $ npm i --save @qianyuxingye/form-text
 ```
+
+# keywords
+react form ant-form form-text
